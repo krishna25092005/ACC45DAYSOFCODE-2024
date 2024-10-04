@@ -19,21 +19,21 @@ int main()
             cin >> A[i];
         }
 
-        string result = "";
+        string ans = "";
 
         for (int i = 0; i < n; i++)
         {
             if (A[i] <= k)
             {
-                result += '1';
+                ans += '1';
                 k -= A[i];
             }
             else
             {
-                result += '0';
+                ans += '0';
             }
         }
-        cout << result << endl;
+        cout << ans << endl;
     }
 
     return 0;
