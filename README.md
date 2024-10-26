@@ -71,4 +71,4 @@ A huge shoutout to the Technical Coordinator and my fellow challengers! Let’s 
 ### 🔗 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/krishna-chauhan-hustler/)
 - [GitHub](https://github.com/krishna25092005)
-- [Website](https://linktr.ee/chauhan_krishna)
+- [Website](https://krishna-chauhan.netlify.app/)
