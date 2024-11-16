@@ -21,7 +21,7 @@
 
 For the next **45 days**, I am embarking on an intense coding journey. My goal is to **code daily**, improve my skills, and strengthen my problem-solving abilities by taking on new challenges every day.
 
-- **Duration**: 28th September 2024 - 12th November 2024
+- **Duration**: 28th September 2024 - 16th November 2024
 - **Commitment**: Daily coding practice and uploads
 - **Focus**: Enhancing algorithmic skills, improving consistency, and learning new concepts.
 
