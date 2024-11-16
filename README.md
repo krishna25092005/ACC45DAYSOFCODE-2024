@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Coding%20Days-45-brightgreen?style=for-the-badge" alt="45 Days of Code">
   <img src="https://img.shields.io/badge/Start%20Date-28th%20September-blue?style=for-the-badge" alt="Start Date">
-  <img src="https://img.shields.io/badge/End%20Date-12th%20November-orange?style=for-the-badge" alt="End Date">
+  <img src="https://img.shields.io/badge/End%20Date-16th%20November-orange?style=for-the-badge" alt="End Date">
 </p>
 
 <h3 align="center">
